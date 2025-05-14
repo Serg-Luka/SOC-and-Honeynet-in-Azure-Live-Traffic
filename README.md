@@ -74,6 +74,7 @@ I went to https://portal.azure.com and created a resource group.
 
 ---
 
+<a id="part-2-azure-honeypot-infrastructure-configuration"></a>
 ### Part 2.2: Creating a Virtual Network
 
 <img src="https://i.imgur.com/pmVOOY6.png">
@@ -82,6 +83,7 @@ Created a new VNet for my resource group and used the same region.
 
 ---
 
+<a id="part-23-creating-a-honeypot-virtual-machine"></a>
 ### Part 2.3: Creating a pot Virtual Machine
 
 <img src="https://i.imgur.com/VuibYQk.png">
@@ -241,6 +243,10 @@ I navigated to Microsoft Sentinel > Workbooks and created a new workbook titled 
 
 I now have a visual map that displays the origin of incoming attacks. High levels of activity are represented by larger red circles, while lower activity levels appear as smaller green circles. The map updates automatically as the machine continues to receive attacker activity.
 
+<img src="https://i.imgur.com/JHSCeq1.png">
+
+This is the same map after about 12 hours.
+
 ---
 
 ### Part 6.2: Analysis of Observed Activity
@@ -294,7 +300,7 @@ I monitored the VM’s outbound traffic using Azure Network Watcher to confirm i
 
 ### Part 7.2: Deleted All Resources to Avoid Charges
 
-I accessed the Azure Portal and navigated to the resource group containing my pot lab resources. I selected the resource group and chose the option to delete it, confirming the deletion to remove the virtual machine, virtual network, Log Analytics Workspace, and Microsoft Sentinel instance. This ensured no further charges were incurred on my free Azure subscription after completing the lab.
+I accessed the Azure Portal and navigated to the resource group containing my honeypot lab resources. I selected the resource group and chose the option to delete it, confirming the deletion to remove the virtual machine, virtual network, Log Analytics Workspace, and Microsoft Sentinel instance. This ensured no further charges were incurred on my free Azure subscription after completing the lab.
 
 ---
 
