@@ -251,13 +251,13 @@ This is the same map after about 24 hours.
 
 ### Part 6.2: Analysis of Observed Activity
 
--	Attackers employed multiple usernames from a single IP address within a short timeframe, indicating typical brute-force attack behaviour.<br>
+-	Attackers attempted multiple failed logins using the same username from a single IP address within a short timeframe, indicating typical brute-force attack behaviour.<br>
 
 -	Commonly used account names such as 'Admin' and 'Administrator' were the primary targets, highlighting the importance of avoiding generic names for high-privilege accounts to reduce vulnerability.<br>
 
--	The pot attracted opportunistic bots and scanners but lacked engagement from advanced persistent threats, likely due to the absence of deception layers such as tokens, fake file shares, or misleading login banners.<br>
+-	The honeypot attracted opportunistic bots and scanners but lacked engagement from advanced persistent threats, likely due to the absence of deception layers such as tokens, fake file shares, or misleading login banners.<br>
 
-<img src="https://i.imgur.com/2mQn1Rk.png">
+<img src="https://i.imgur.com/0Ww2hSA.png">
 
 The screenshot above clearly shows that attackers often target generic usernames, such as 'admin'.
 
