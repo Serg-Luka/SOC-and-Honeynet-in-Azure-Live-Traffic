@@ -243,9 +243,9 @@ I navigated to Microsoft Sentinel > Workbooks and created a new workbook titled 
 
 I now have a visual map that displays the origin of incoming attacks. High levels of activity are represented by larger red circles, while lower activity levels appear as smaller green circles. The map updates automatically as the machine continues to receive attacker activity.
 
-<img src="https://i.imgur.com/JHSCeq1.png">
+<img src="https://i.imgur.com/w3Z9PHp.png">
 
-This is the same map after about 12 hours.
+This is the same map after about 24 hours.
 
 ---
 
