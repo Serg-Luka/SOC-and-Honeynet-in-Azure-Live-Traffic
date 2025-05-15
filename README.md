@@ -259,7 +259,7 @@ This is the same map after about 24 hours.
 
 <img src="https://i.imgur.com/0Ww2hSA.png">
 
-The screenshot above clearly shows that attackers often target generic usernames, such as 'admin'.
+The screenshot above clearly shows that attackers often target generic usernames, such as 'Administrator'.
 
 ---
 
