@@ -1,4 +1,4 @@
-# 🛡️☁️ Honeypot Deployment and Real-Time Attack Analysis in Azure SOC Environment
+# ☁️🍯 Honeypot Deployment and Real-Time Attack Analysis in Azure SOC Environment
 
 ## Lab Overview
 
